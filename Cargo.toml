@@ -1,0 +1,11 @@
+[package]
+name = "amazon_trends"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+petgraph = "0.6"
+
+[dev-dependencies]
+tempfile = "3.3"
+petgraph = "0.6"
